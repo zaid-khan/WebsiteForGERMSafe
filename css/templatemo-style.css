@@ -171,7 +171,15 @@ header .social-icon li a
   }
 
 
-
+.image-center {
+	background-position: center center;
+	background-repeat: no-repeat;
+  }
+.center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+ }
 
 /* start nagivation */
 .navbar-default
