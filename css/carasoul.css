@@ -6,7 +6,7 @@
 .team .photo img{width: 100%;    vertical-align: middle;position: relative;}
 .social-connect{margin-top: 13px;}
 .info{margin-top: 22px;}
-.info .name{font-size: 18px;font-weight: 600;margin-bottom: 2px;}
+.info .name{font-size: 14px;font-weight: 450;margin-bottom: 2px;}
 .info .degination{font-size: 16px;font-weight: 300;font-style: italic;color: #8B8B8B;}
 .social-connect a{ display: inline-block;  font-size: 14px; color: #919191; width: 24px; height: 24px; text-align: center; line-height: 24px;margin-right: 4px;}
 .social-connect a .fa{margin: 0;}
