@@ -1,4 +1,7 @@
-A website for GermSAFE Technology, a Limited Liability Partnership company.
+# GermSAFE LLC.
+This is a website I and a colleague (Vyankatesh Berde) created for GermSAFE Technology, a Limited Liability Partnership company.
+
+The website is hosted on http://germsafetech.com
 
 Incorporated in the year 2019, they provide clean solution for water treatment with the goal of zero water discharge from industry, 
 using unique and innovative technology developed in-house. 
