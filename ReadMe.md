@@ -1,5 +1,5 @@
 # GermSAFE LLC.
-This is a website I and a colleague (Vyankatesh Berde) created for GermSAFE Technology, a Limited Liability Partnership company.
+This is a website I and a colleague [Vyankatesh Berde](https://github.com/vyankatesh24) created for GermSAFE Technology, a Limited Liability Partnership company.
 
 The website is hosted on http://germsafetech.com
 
